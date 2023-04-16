@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarrasqu3
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m focused to Linux certifications 
 - 🌱 I’m currently, out of my fileds of interest, learning Java
 <!-- - 💞️ I’m looking to collaborate on a solid project related to deep learning -->
 - 📫 tarrasqu3@gmail.com
